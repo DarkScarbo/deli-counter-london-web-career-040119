@@ -1,4 +1,4 @@
-def line(arrline)
+def line(arr)
   arrline = []
   if arr.length == 0
     puts "The line is currently empty."
